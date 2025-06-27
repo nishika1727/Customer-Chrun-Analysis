@@ -1,4 +1,4 @@
-# 🔍 Customer Churn Prediction Web App
+# 🔍 Customer Churn Prediction
 
 This project predicts whether a customer is likely to churn based on their service details using machine learning. It includes data analysis, model building, handling data imbalance with SMOTE, and deploying the model through a Flask web application.
 
